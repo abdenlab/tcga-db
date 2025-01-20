@@ -1,0 +1,17 @@
+[project]
+name = "itcr"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests",
+    "numpy",
+    "pandas",
+    "polars",
+    "duckdb",
+    "quak",
+    "matplotlib",
+    "ipympl",
+    "ipykernel",
+]

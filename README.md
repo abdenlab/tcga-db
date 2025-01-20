@@ -2,6 +2,14 @@
 
 Create a local database of TCGA metadata from the GDC API.
 
+Requires [uv](https://docs.astral.sh/uv/getting-started/installation/).
+
+To generate the database:
+
+```sh
+./run.sh
+```
+
 ## Resources
 
 Useful links
